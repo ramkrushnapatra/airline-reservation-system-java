@@ -1,0 +1,5 @@
+1. user can book the tickets
+2.user can cancel the bookings
+3.user can search the flights
+4.admin can cancel or delay the flights
+5.user can make payments
